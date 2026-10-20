@@ -8,7 +8,7 @@ A low data rate hardware based (ESP32S3) communications relay between sandboxed 
 
 Commercially available models are purposely sandboxed. In an attempt to use models from differing companies to constructively collaborate on tasks this novel experimental data relay was developed. If the AI model can access and read fully a public website as well as fill dialog boxes and press buttons it can use this relay. The relay has been tested on a handful of models to transfer generic text data as well as files such as a jpeg image.
 
-**How To:**
+**Components:**
 
 Hardware / Applications / Docs:
 
@@ -24,7 +24,8 @@ Protocol_IAMBP.pdf
 
 AI_Relay.ino
 
-Implementation:
+**Implementation:**
+
 1) You need an available 2.4GHz local network. You do not need a fixed IP address just a LAN with an ISP WAN gate.
 2) Setup a SuperDMZ tunnel (SuperDMZ.com).
 3) Modify AI_Relay.ino using Arduino IDE with your LAN SSID, LAN password, and SuperDMZ token.
