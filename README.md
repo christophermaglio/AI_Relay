@@ -11,11 +11,17 @@ Commercially available models are purposely sandboxed. In an attempt to use mode
 **How To:**
 
 Hardware / Applications / Docs:
+
 Arduino Nano Nora ESP32S3
+
 Local LAN with WAN gate
+
 SuperDMZ
+
 Arduino IDE
+
 Protocol_IAMBP.pdf
+
 AI_Relay.ino
 
 Implementation:
